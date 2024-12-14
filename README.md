@@ -18,16 +18,18 @@ la asociación civil [ALMA LACTANCIA](https://alma-lactancia-web3.vercel.app/)
 gracias a mi desempeño como team leader Ambassador colaboro con 
 [HACK A BOSS](https://www.hackaboss.com/) una de las Startup mejor posicionada en España 
 
-Actualmente, soy líder y fundadora de la comunidad [Technology Events Community](https://technologyeventscommunity.wordpress.com/), estoy comprometida 
-con fomentar el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
-proyectos en el mundo tecnológico, así como ayudar a pequeños negocios a crecer.
+## Technology Events Community
 
-Nuestra comunidad se encarga de conectar con otras comunidades, de las cuales cuentan con diferentes 
-recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.
+He creado la comunidad [Technology Events Community](https://technologyeventscommunity.wordpress.com/), 
+en donde se fomenta el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
+proyectos en el mundo tecnológico, te ayudamos a conectar con otras comunidades, de las cuales cuentan con diferentes recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.
 
+[Unete a instagram aquí](https://t.me/+IK-2Of-y7tphN2Ix)
 <div>
   <img src="Digital_Nao.png" height:auto; width="100"/>
   <img src="talent_world.png" height:auto; width="150"/>
+   <img src="posadev-logo.png" height:auto; width="150"/>
+   <img src="OIP (6).png" height:auto; width="150"/>
 </div>
 
 <!--
