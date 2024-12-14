@@ -24,7 +24,9 @@ He creado la comunidad [Technology Events Community](https://technologyeventscom
 en donde se fomenta el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
 proyectos en el mundo tecnológico, te ayudamos a conectar con otras comunidades, de las cuales cuentan con diferentes recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.
 
-[Unete a instagram aquí](https://t.me/+IK-2Of-y7tphN2Ix)
+<img src="Digital_Nao.png" height:auto; width="100"/>
+
+[Unete aquí](https://t.me/+IK-2Of-y7tphN2Ix)
 <div>
   <img src="Digital_Nao.png" height:auto; width="100"/>
   <img src="talent_world.png" height:auto; width="150"/>
