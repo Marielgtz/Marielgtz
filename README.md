@@ -1,5 +1,10 @@
-![Kireh Gtz](Marielgtz/README.md/portada.png) 
 # Hola mi nombre es Mariel 👋
+
+<div>
+  <img src="portada.png" height:auto; width="750"/>
+</div>
+
+
 
 <!--
 **Marielgtz/Marielgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
