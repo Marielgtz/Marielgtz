@@ -1,8 +1,29 @@
 # Hola mi nombre es Mariel 👋
 
 <div>
-  <img src="portada.png" height:auto; width="750"/>
+  <img src="portada.png" height:auto; width="650"/>
 </div>
+
+## Freelance Project Manager, Marketing e Ing.de Datos 
+
+Mi experiencia como embajadora en Talent Network y Platzi me ha permitido desarrollar mis
+habilidades en el manejo de comunidades y el networking. 
+
+Además, he compartido mi conocimiento como speaker en eventos destacados, incluyendo la Universidad Anáhuac, 
+AZ Founders, Talent Network, Universidad de Tepic e IT Girls de Density Labs. 
+
+Mi compromiso con el desarrollo profesional me llevo a ser mentora en Recursos Humanos para 
+Laboratoria y Team Leader Ambassador de Hack a Boss como Networker y Scrum Master en 
+la asociación civil [ALMA LACTANCIA](https://alma-lactancia-web3.vercel.app/)
+gracias a mi desempeño como team leader Ambassador colaboro con 
+[HACK A BOSS](https://www.hackaboss.com/) una de las Startup mejor posicionada en España 
+
+Actualmente, soy líder y fundadora de la comunidad Technology Events Community, estoy comprometida 
+con fomentar el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
+proyectos en el mundo tecnológico, así como ayudar a pequeños negocios a crecer.
+
+Nuestra comunidad se encarga de conectar con otras comunidades, de las cuales cuentan con diferentes 
+recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.
 
 
 
