@@ -1,3 +1,4 @@
+![Kireh Gtz](readme/mi/portada.png)
 # Hola mi nombre es Mariel 👋
 
 <!--
