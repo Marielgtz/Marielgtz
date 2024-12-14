@@ -25,7 +25,10 @@ proyectos en el mundo tecnológico, así como ayudar a pequeños negocios a crec
 Nuestra comunidad se encarga de conectar con otras comunidades, de las cuales cuentan con diferentes 
 recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.
 
-
+<div>
+  <img src="Digital_Nao.png" height:auto; width="100"/>
+  <img src="talent_world.png" height:auto; width="150"/>
+</div>
 
 <!--
 **Marielgtz/Marielgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
