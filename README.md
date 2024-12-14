@@ -18,7 +18,7 @@ la asociación civil [ALMA LACTANCIA](https://alma-lactancia-web3.vercel.app/)
 gracias a mi desempeño como team leader Ambassador colaboro con 
 [HACK A BOSS](https://www.hackaboss.com/) una de las Startup mejor posicionada en España 
 
-Actualmente, soy líder y fundadora de la comunidad Technology Events Community, estoy comprometida 
+Actualmente, soy líder y fundadora de la comunidad [Technology Events Community](https://technologyeventscommunity.wordpress.com/), estoy comprometida 
 con fomentar el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
 proyectos en el mundo tecnológico, así como ayudar a pequeños negocios a crecer.
 
