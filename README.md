@@ -1,4 +1,4 @@
-![Kireh Gtz](readme/mi/portada.png)
+![Kireh Gtz](Marielgtz/README.md/portada.png) 
 # Hola mi nombre es Mariel 👋
 
 <!--
