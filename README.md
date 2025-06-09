@@ -1,5 +1,5 @@
 # Hola mi nombre es 🅼🅰🆁🅸🅴🅻 👋
-
+## Conoce más acerca de:
 <div>
   <img src="portada.png" height:auto; width="650"/>
 </div>
@@ -29,9 +29,7 @@ He creado la comunidad [Technology Events Community](https://technologyeventscom
 en donde se fomenta el crecimiento profesional, inclusión de la mujer y la colaboración continua de 
 proyectos en el mundo tecnológico, te ayudamos a conectar con otras comunidades, de las cuales cuentan con diferentes recursos que ayudan a las personas en apoyo de transformación digital y tecnologías de diferentes areas.<br>
 
-
-[Unete aquí](https://t.me/+IK-2Of-y7tphN2Ix)
-
+### Conoce todo Acerca de nuestras alianzas y colaboraciones:
 
 <div>
   <img src="Digital_Nao.png" height:auto; width="100"/>
@@ -40,6 +38,14 @@ proyectos en el mundo tecnológico, te ayudamos a conectar con otras comunidades
    <img src="OIP (6).png" height:auto; width="150"/>
 </div>
 
+<div><br>
+  <img src="GeekCastGdl.png" height:auto; width="100"/>
+  <img src="IXDA.jpg" height:auto; width="150"/>
+   <img src="JConfMex.jpeg" height:auto; width="100"/>
+   <img src="aws.jpg" height:auto; width="150"/>
+</div>
+
+<br>[Unete aquí](https://t.me/+IK-2Of-y7tphN2Ix)
 <!--
 **Marielgtz/Marielgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
